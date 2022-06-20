@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\aguat\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\aguat\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\variants\\esp32"
+  },
+  {
+    "Sourcefile": "c:\\Users\\aguat\\Documents\\GitHub\\Arduino-Projects\\ESP32\\build\\sketch\\Esp32_UsoDac.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
